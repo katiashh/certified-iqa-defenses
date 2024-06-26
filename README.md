@@ -69,3 +69,8 @@ Run DP on clear images:
 `cd DensePure-master`
 
 `python3 calc_clear_dp_{metric_name}.py`
+
+
+Used weights (upload to root folder):
+
+[p1q2.pth](https://drive.google.com/file/d/1fwP7rhwdWwUtV92kkdLx88SXq3SvxfRs/view?usp=sharing)
