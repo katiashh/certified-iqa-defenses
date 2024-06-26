@@ -18,52 +18,53 @@ Run RS and DRS on adv images:
 
 Run RS and DRS on clear images: 
 
-cd ccrf
+`cd ccrf`
 
-python3 calc_clear_rs_{metric_name}.py
+`python3 calc_clear_rs_{metric_name}.py`
 
 
 
 
 Run MS and DMS on adv images: 
 
-cd ccrf
+`cd ccrf`
 
-python3 calc_nms_{metric_name}.py
+`python3 calc_nms_{metric_name}.py`
 
 
 Run MS and DMS on clear images: 
 
-cd ccrf
+`cd ccrf`
 
-python3 calc_clear_nms_{metric_name}.py
+`python3 calc_clear_nms_{metric_name}.py`
 
 
 
 
 Run DDRS on adv images: 
 
-cd ccrf
+`cd ccrf`
 
-python3 calc_ddrs_{metric_name}.py
+`python3 calc_ddrs_{metric_name}.py`
 
 
 Run DDRS on clear images: 
 
-cd ccrf
+`cd ccrf`
 
-python3 calc_clear_ddrs_{metric_name}.py
+`python3 calc_clear_ddrs_{metric_name}.py`
 
 
 
 
 Run DP on adv images: 
 
-cd DensePure-master
+`cd DensePure-master`
 
-python3 calc_dp_{metric_name}.py
+`python3 calc_dp_{metric_name}.py`
 
 
 Run DP on clear images: 
-cd DensePure-master
-python3 calc_clear_dp_{metric_name}.py
+`cd DensePure-master`
+
+`python3 calc_clear_dp_{metric_name}.py`
