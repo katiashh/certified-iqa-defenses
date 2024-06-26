@@ -73,4 +73,5 @@ Run DP on clear images:
 
 Used weights (upload to root folder):
 
-[p1q2.pth](https://drive.google.com/file/d/1fwP7rhwdWwUtV92kkdLx88SXq3SvxfRs/view?usp=sharing)
+* [p1q2.pth](https://drive.google.com/file/d/1fwP7rhwdWwUtV92kkdLx88SXq3SvxfRs/view?usp=sharing)
+* [model_best_kadid_0.pkl](https://drive.google.com/file/d/1SZlCQQvV04z8p5kZVWB_eLQFZGzawJHK/view?usp=sharing)
