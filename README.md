@@ -11,9 +11,9 @@ https://github.com/Ping-C/CertifiedObjectDetection
 
 Run RS and DRS on adv images: 
 
-cd ccrf
+`cd ccrf`
 
-python3 calc_rs_{metric_name}.py
+`python3 calc_rs_{metric_name}.py`
 
 
 Run RS and DRS on clear images: 
